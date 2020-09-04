@@ -1,5 +1,9 @@
 /* Just a simple reset section */
 
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,600;0,700;1,400&display=swap');
+</style>
+
 .footer ul {
     margin: 0;
     padding: 0;
@@ -58,6 +62,7 @@ body {
     color: #616161;
     background-color: #fafafa;
     line-height: 1.5;
+    font-weight: bold;
 }
 
 a {
