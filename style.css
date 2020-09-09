@@ -1,7 +1,7 @@
 /* Just a simple reset section */
 
 <style>
-@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,600;0,700;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins');
 </style>
 
 .footer ul {
@@ -223,7 +223,7 @@ a.project-item {
 }
 
 a.project-item:hover .project-overlay {
-    opacity: .9
+    opacity: .95;
 }
 
 a.project-item:hover .project-text {
