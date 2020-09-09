@@ -58,7 +58,7 @@ p {
 /* Main body styles */
 
 body {
-    font: 100% "Poppins", Helvetica, sans-serif;
+    font-family: 100% "Poppins", Helvetica, sans-serif;
     color: #616161;
     background-color: #fafafa;
     line-height: 1.5;
@@ -296,7 +296,7 @@ a.button-slide {
     font-size: 1.5em;
     height: 5rem;
     line-height: 5rem;
-    min-width: 30rem;
+    min-width: 25rem;
     overflow: hidden;
     -webkit-transition: 0.3s;
     transition: 0.3s
